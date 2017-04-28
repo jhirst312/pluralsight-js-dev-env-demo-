@@ -15,7 +15,6 @@
     "mocha": true
   },
   "rules": {
-      "no-unused-vars": 1,
       "no-console": 1
   }
 }
